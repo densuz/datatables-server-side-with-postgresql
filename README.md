@@ -1,5 +1,5 @@
 # datatables-server-side-with-postgresql
-Menampilkan Data dari database menggunakan datatables server side dengan POSTGRESQL
+Menampilkan Data dari database menggunakan datatables server side dengan POSTGRESQL [PHP NATIVE]
 
 Features information:
 •	Compatibility - DataTables 1.6+
